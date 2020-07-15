@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8882fc2f-98ee-49d1-b4b4-965925db505f" name="Default Changelist" comment="初始状态">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594787831499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始状态">
+      <created>1594791582809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594791582809</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始状态" />
@@ -105,10 +115,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="98" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594785329318" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1594785378904">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594791701079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594785378904" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594791701079" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594787851100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -117,5 +127,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1594785136159" />
+    <state x="389" y="150" key="git4idea.merge.GitPullDialog" timestamp="1594791598119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1594791598119" />
   </component>
 </project>
